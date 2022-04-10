@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071124648905",
+    "project_id": "getx-pattern",
+    "storage_bucket": "getx-pattern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071124648905:android:4add04b77ba958f9e48e18",
+        "android_client_info": {
+          "package_name": "com.example.getx_pattern1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071124648905-282pu20pl9gnpf3morjl49m37up3dlpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4b1oFkMkNEq6WH2TzjgSiJJS7FHXRfus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071124648905-282pu20pl9gnpf3morjl49m37up3dlpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
