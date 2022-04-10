@@ -3,8 +3,11 @@
 > Plugin: [get: ^4.6.1](https://pub.dev/packages/get)
 > 
 > main: change MaterialApp to GetMaterialApp
-
+> 
 > control: create separate class for each ui page for their controllers and     extend each of them GetxController: ``` class ControllerName extends GetxController {} ```
+> 
+> Material: [The ultimate guide to GetX state management in Flutter](https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/)
+
 
 ## Use Cases
 
